@@ -245,7 +245,7 @@ export default function Home() {
               About the Author
             </h3>
             <p className="text-sage mb-2">
-              Hi, I’m [Your Name], a certified plant-based nutritionist and
+              Hi, I’m Sarah Kings, a certified plant-based nutritionist and
               passionate foodie. My mission is to help you thrive on a keto-vegan
               lifestyle—no deprivation, no confusion, just real results.
             </p>
